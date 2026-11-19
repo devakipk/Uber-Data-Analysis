@@ -21,7 +21,11 @@ Project Objective
 
 Dataset
 
-Uber Drives 2016 Dataset
+- Dataset Name: Uber Drives 2016 Dataset
+- File Format: CSV
+- File Name: uber_data.csv
+
+The dataset contains information about Uber trips, including trip purposes, distances, start locations, and other trip-related details.
 
 Technologies Used
 
